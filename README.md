@@ -19,4 +19,7 @@ The principle is simple: two players take on each other on a board, and take tur
 Also I made a graphic visualization for this game using MLX graphic library. To open it you need to:
 ```
 cd visualization
+make
+cd ..
+ ./filler_vm -f resources/maps/map01 -p1 ./vkorniie.filler -p2 resources/players/carli.filler | ./visualization/vkorniie.visual
 ```
