@@ -10,7 +10,7 @@ The principle is simple: two players take on each other on a board, and take tur
    • The player concerned will write on the standard output his or her piece’s coordinates to place it on the board.
    • The filler will send the map and a new piece to the other player.
    
-  ### Here is an example on how a game will roll out.
+  ### Here is an example on how a game will roll out in terminal.
   ![](https://github.com/vlkorniienko/Filler/blob/master/example.png)
  
   ### Usage:
