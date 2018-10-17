@@ -21,5 +21,8 @@ Also I made a graphic visualization for this game using MLX graphic library. To 
 cd visualization
 make
 cd ..
- ./filler_vm -f resources/maps/map01 -p1 ./vkorniie.filler -p2 resources/players/carli.filler | ./visualization/vkorniie.visual
+./filler_vm -f resources/maps/map01 -p1 ./vkorniie.filler -p2 resources/players/abanlin.filler | ./visualization/vkorniie.visual
 ```
+
+### Game example
+![](https://github.com/vlkorniienko/Filler/blob/master/visual.png)
