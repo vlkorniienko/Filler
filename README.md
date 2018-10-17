@@ -13,5 +13,5 @@ The principle is simple: two players take on each other on a board, and take tur
   ### Here is an example on how a game will roll out.
   ![](https://github.com/vlkorniienko/Filler/blob/master/example.png)
  
-  Usage:
+  ### Usage:
 ![](https://github.com/vlkorniienko/Filler/blob/master/Usage.png)
