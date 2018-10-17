@@ -15,3 +15,8 @@ The principle is simple: two players take on each other on a board, and take tur
  
   ### Usage:
 ![](https://github.com/vlkorniienko/Filler/blob/master/Usage.png)
+
+Also I made a graphic visualization for this game using MLX graphic library. To open it you need to:
+,,,
+cd visualization
+,,,
