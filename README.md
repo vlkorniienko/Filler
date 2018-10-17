@@ -9,6 +9,9 @@ The principle is simple: two players take on each other on a board, and take tur
    • At each turn, the filler will send the updated map and a new token to the player concerned.
    • The player concerned will write on the standard output his or her piece’s coordinates to place it on the board.
    • The filler will send the map and a new piece to the other player.
+   
+  ### Here is an example on how a game will roll out.
+  ![](https://github.com/vlkorniienko/Filler/blob/master/example.png)
  
   Usage:
 ![](https://github.com/vlkorniienko/Filler/blob/master/Usage.png)
