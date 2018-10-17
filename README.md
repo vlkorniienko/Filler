@@ -10,4 +10,4 @@
  The filler will send the map and a new piece to the other player.
  
 	Usage:
-![] (https://github.com/vlkorniienko/Filler/blob/master/Usage.png)
+![](https://github.com/vlkorniienko/Filler/blob/master/Usage.png)
